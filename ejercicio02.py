@@ -1,6 +1,3 @@
-name = input ("Escribe un nombre: \n")
-print("Hola, " + name + ".")
-
 print("Programa que calcula area y perimetro \n")
 
 altura = input("Ingresa la altura: \n")
