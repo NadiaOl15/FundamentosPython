@@ -8,4 +8,4 @@ numero3 = int(input("Ingresa el tercer numero: "))
 promedio = (numero1 + numero2 + numero3) / 3
 
 print("El promedio de los nùmeros es: ", promedio)
-print("El promedio redondeado es: ", round(promedio))
+print("El promedio redondeado de los nùmeros es: ", round(promedio))
