@@ -14,7 +14,6 @@ if exponente > 0:
 elif exponente == 0:
     print('El numero ', base, ' Elevado a ', exponente, ' es 1')
 else:
-
     print('El numero ', base, ' Elevado a ', exponente, ' es ', 1 / base^abs(exponente))
 
 
