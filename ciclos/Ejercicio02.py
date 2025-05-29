@@ -23,6 +23,8 @@ while True:
     elif numero > aleatorio:
         print('Ingresa otro mas pequeño.')
         intentos = intentos - 1
+
+        
     else:
         print('Ingresa otro mas grande.')
         intentos = intentos - 1
