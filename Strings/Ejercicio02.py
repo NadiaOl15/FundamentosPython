@@ -15,3 +15,4 @@ if my_str_1.startswith(my_str_2):
 else:
     print('"', my_str_1, '"', ' no comienza con ', '"', my_str_2, '"')
     
+
